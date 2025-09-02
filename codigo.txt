@@ -1,0 +1,11 @@
+string nota1;
+ Console.WriteLine("cual es tu primera nota" + "vale el 20%");
+ nota1 = Console.ReadLine();
+
+ string nota2;
+ Console.WriteLine("cual es tu segunda nota" + "vale el 30%");
+ nota2 = Console.ReadLine();
+
+ string nota3;
+ Console.WriteLine("cual es tu tercera nota" + "vale el 50%");
+ nota3 = Console.ReadLine();
